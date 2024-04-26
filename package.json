@@ -1,0 +1,16 @@
+{
+  "name": "@nicholas.synn/customdynamodbapi",
+  "version": "0.0.1",
+  "description": "custom api hoping to simplify the interaction with dynamodb client. This libaray is not using dynamodb document client for legacy reason (simply didn't know it exsited when the library was written)",
+  "main": "index.mjs",
+  "module": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamodb",
+    "client"
+  ],
+  "author": "Nicholas Synn",
+  "license": "ISC"
+}
